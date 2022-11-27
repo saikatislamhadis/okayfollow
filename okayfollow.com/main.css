@@ -1,0 +1,89 @@
+
+.dmca {
+    float: left;
+   
+}
+
+.mainlogo {
+    padding: 10px;
+    display: inline;
+    float: left;
+    
+}
+
+.ad {
+    display: inline;
+    float: right;
+    margin: 10px;
+    padding-right: 100px;
+    position: relative;
+    
+   
+}
+
+#imgg {
+    border: 2px solid black;
+}
+
+.heading1 {
+    text-align: center;
+    margin: 40px;
+    font-size: 70px;
+}
+
+.devided {
+    max-width: 7.25rem;
+    border-width: 0.015rem;
+    border-color: #f4623a;;
+}
+
+#pera1 {
+    display: inline;
+    float: left;
+    width: 600px;
+    margin: 30px;
+    font-size: 35px;
+    padding-top: 30px;
+    position: relative;
+    left: 22%;
+   
+}
+#media1 {
+    display: inline;
+    float : right;
+    width: 400px;
+    margin: 30px;
+    position: relative;
+    right: 22%;
+}
+
+.button-1 {
+  background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #673FD7 64.72%);
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-family: "Inter UI","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  height: 4rem;
+  padding: 0 1.6rem;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
+  transition: all .5s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover {
+  box-shadow: rgba(80, 63, 205, 0.5) 0 1px 30px;
+  transition-duration: .1s;
+}
+
+@media (min-width: 768px) {
+  .button-1 {
+    padding: 0 2.6rem;
+}
